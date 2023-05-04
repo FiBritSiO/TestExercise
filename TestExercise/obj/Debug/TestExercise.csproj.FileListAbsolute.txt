@@ -1,0 +1,14 @@
+D:\TestExercise\TestExercise\bin\Debug\TestExercise.exe.config
+D:\TestExercise\TestExercise\bin\Debug\TestExercise.exe
+D:\TestExercise\TestExercise\bin\Debug\TestExercise.pdb
+D:\TestExercise\TestExercise\obj\Debug\TestExercise.csproj.AssemblyReference.cache
+D:\TestExercise\TestExercise\obj\Debug\TestExercise.csproj.SuggestedBindingRedirects.cache
+D:\TestExercise\TestExercise\obj\Debug\TestExercise.Properties.Resources.resources
+D:\TestExercise\TestExercise\obj\Debug\TestExercise.csproj.GenerateResource.cache
+D:\TestExercise\TestExercise\obj\Debug\TestExercise.csproj.CoreCompileInputs.cache
+D:\TestExercise\TestExercise\obj\Debug\TestExercise.exe
+D:\TestExercise\TestExercise\obj\Debug\TestExercise.pdb
+D:\TestExercise\TestExercise\obj\Debug\TestExercise.Form1.resources
+D:\TestExercise\TestExercise\bin\Debug\Xceed.Document.NET.dll
+D:\TestExercise\TestExercise\bin\Debug\Xceed.Words.NET.dll
+D:\TestExercise\TestExercise\obj\Debug\TestExercise.csproj.CopyComplete

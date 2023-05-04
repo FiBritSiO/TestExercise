@@ -1,0 +1,14 @@
+D:\TestExercise\TestExercise\bin\Release\TestExercise.exe.config
+D:\TestExercise\TestExercise\bin\Release\TestExercise.exe
+D:\TestExercise\TestExercise\bin\Release\TestExercise.pdb
+D:\TestExercise\TestExercise\bin\Release\Xceed.Document.NET.dll
+D:\TestExercise\TestExercise\bin\Release\Xceed.Words.NET.dll
+D:\TestExercise\TestExercise\obj\Release\TestExercise.csproj.AssemblyReference.cache
+D:\TestExercise\TestExercise\obj\Release\TestExercise.csproj.SuggestedBindingRedirects.cache
+D:\TestExercise\TestExercise\obj\Release\TestExercise.Form1.resources
+D:\TestExercise\TestExercise\obj\Release\TestExercise.Properties.Resources.resources
+D:\TestExercise\TestExercise\obj\Release\TestExercise.csproj.GenerateResource.cache
+D:\TestExercise\TestExercise\obj\Release\TestExercise.csproj.CoreCompileInputs.cache
+D:\TestExercise\TestExercise\obj\Release\TestExercise.csproj.CopyComplete
+D:\TestExercise\TestExercise\obj\Release\TestExercise.exe
+D:\TestExercise\TestExercise\obj\Release\TestExercise.pdb
